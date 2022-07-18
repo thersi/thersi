@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+![Cute Penguin](https://giphy.com/embed/Cmr1OMJ2FN0B2)
+
 **thersi/thersi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
